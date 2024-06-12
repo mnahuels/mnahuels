@@ -1,10 +1,10 @@
-### Hola!! 👋 Yo soy [Nahuel Salto!](https://github.com/mnahuels)
+### Hola!! 👋 Yo soy Mauricio Nahuel Salto!
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
+<img autoplay align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" />
 
 ## Soy estudiante de ingenieria en sistemas de informacion.
 
-- 👨‍💻 Actualmente me dedico solamente al estudiom, y estoy en 4to ano de la carrera.
+- 👨‍💻 Actualmente me dedico solamente al estudio, y estoy en 4to año de la carrera.
 - 📚 Cursando un curso de desarrollador fullstack.
 - 💪🏼 Meta a futuro: Aprender nuevas tecnologias - Tener una experiencia profecional - Terminar la carrera.
 
