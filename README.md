@@ -5,7 +5,6 @@
 ### Soy estudiante de ingenieria en sistemas de informacion 💻💻🖥️🖥️
 
 - 👨‍💻 Actualmente me dedico solamente al estudio, y estoy en 4to año de la carrera.
-- 📚 Cursando un curso de desarrollador fullstack.
 - 💪🏼 Meta a futuro: Aprender nuevas tecnologias - Tener una experiencia profesional - Terminar la carrera.
 
 ---
