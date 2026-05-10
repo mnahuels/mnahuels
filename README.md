@@ -6,7 +6,7 @@
 
 - 👨‍💻 Actualmente me dedico solamente al estudio, y estoy en 4to año de la carrera.
 - 💪🏼 Meta a futuro: Aprender nuevas tecnologias - Tener una experiencia profesional - Terminar la carrera.
-
+- 🔎 Motivado por iniciar mi trayectoria profesional y adquirir experiencia laboral.
 ---
 
 ##### Tecnologias que he llegado a manejar
